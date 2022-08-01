@@ -41,7 +41,7 @@ function HomeScreen() {
 			title: 'staging',
 			status: 0,
 			isLoading: false,
-			url: 'https://www.golfbreaks.com/en-us/events/',
+			url: 'https://staging-sarazen.golfbreaks.com/en-gb',
 		},
 		{
 			title: 'production',
